@@ -1,0 +1,92 @@
+<html><head>
+
+  
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+
+  
+  <title>Equipos de proteccion individual</title>
+<style></style></head>
+
+
+<body style="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);" alink="#000099" link="#ff6600" vlink="#990099">
+
+<div style="text-align: left;"><img style="width: 225px; height: 225px;" alt="" src="file:///C:\Users\xavie\Desktop\SMX\EXT\web\JPAC.jpg"> <strong><big style="font-weight: bold; font-style: italic;"><big><big><big>&nbsp;</big></big></big></big></strong><big style="font-weight: bold; font-style: italic;"><big><big><big>Para
+su seguridad y comodidad<br>
+
+</big></big></big></big><big><a href="JPAC.html">Inicio</a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="Quienes%20somos.html">Quienes somos</a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="Catalogo.html">Catálogo</a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; </big><big style="font-style: italic;"><big><big><big><br>
+
+</big></big></big></big>
+<table style="text-align: left; width: 100%;" border="0" cellpadding="2" cellspacing="2">
+
+  <tbody>
+
+    <tr>
+
+      <td style="width: 323px; vertical-align: top;" colspan="1" rowspan="6">
+      
+      <ol>
+
+        <li><a href="file:///C:\Users\xavie\Desktop\SMX\EXT\web\vestlaboral.html">Vestimenta laboral</a></li>
+
+        <li><a href="file:///C:\Users\xavie\Desktop\SMX\EXT\web\epi.html">Equipos de protección individual</a></li>
+
+        <li><a href="file:///C:\Users\xavie\Desktop\SMX\EXT\web\serigrafiado.html">Servicio de serigrafiado</a></li>
+
+      </ol>
+
+      </td>
+
+      <td style="width: 227px; text-align: center;"><img style="width: 134px; height: 154px;" alt="" src="file:///E:/imagenes/auriculares.jpg"><</td>
+      <td style="width: 228px; text-align: center;"><img style="width: 134px; height: 154px;" alt="" src="file:///E:/imagenes/bata.jpg"></td>
+      <td style="width: 228px; text-align: center;"><img style="width: 176px; height: 154px;" alt="" src="file:///E:/imagenes/botas.jpg"></td>
+
+    </tr>
+
+    <tr>
+
+      <td style="width: 227px; text-align: center;"><img style="width: 134px; height: 154px;" alt="" src="file:///E:/imagenes/buzo.jpg"></td>
+      <td style="width: 228px; text-align: center;"><img style="width: 134px; height: 154px;" alt="" src="file:///E:/imagenes/camisa%20azul.jpg"></td>
+      <td style="width: 228px; text-align: center;"><img style="width: 134px; height: 154px;" alt="" src="imagenes/camisa%20blanca.jpg"></td>
+
+    </tr>
+    <tr>
+      <td style="text-align: center;"><img style="width: 125px; height: 139px;" alt="" src="file:///E:/imagenes/casco%20soldador.jpg"><br>
+      <a href="Casco%20de%20soldador.html">Casco de soldador</a></td>
+      <td style="text-align: center;"><img style="width: 138px; height: 154px;" alt="" src="file:///E:/imagenes/casco.jpg"><br>
+      <a href="Casco.html">Casco</a></td>
+      <td style="text-align: center;"><img style="width: 134px; height: 163px;" alt="" src="file:///E:/imagenes/chaleco%20reflectante.jpg"><br>
+      <a href="Chaleco%20reflectante%202.html">Chaleco reflectante</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;"><img style="width: 149px; height: 122px;" alt="" src="file:///E:/imagenes/cinturon%20herramientas.jpg"><br>
+      <a href="Cinturon%20de%20herramientas%202.html">Cinturón de herramientas</a></td>
+      <td style="text-align: center;"><img style="width: 111px; height: 128px;" alt="" src="file:///E:/imagenes/falda.jpg"><br>
+      <a href="Falda%20azul.html">Falda azul</a></td>
+      <td style="text-align: center;"><img style="width: 123px; height: 101px;" alt="" src="file:///E:/imagenes/gafas.jpg"><br>
+      <a href="Gafas%20de%20proteccion%202.html">Gafas de protección</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;"><img style="width: 151px; height: 154px;" alt="" src="file:///E:/imagenes/guantes.jpg"><br>
+      <a href="Guantes%202.html">Guantes</a></td>
+      <td style="text-align: center;"><img style="width: 134px; height: 166px;" alt="" src="file:///E:/imagenes/mascarila.jpg"><br>
+      <a href="Mascarilla%20con%20valvula.html">Mascarilla</a></td>
+      <td style="text-align: center;"><img style="width: 134px; height: 156px;" alt="" src="file:///E:/imagenes/pantalon%20mujer.jpg"><br>
+      <a href="Pantalon%20negro.html">Pantalón negro</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;"><img style="width: 134px; height: 156px;" alt="" src="file:///E:/imagenes/pantalones.jpg"><br>
+      <a href="Pantalon%20azul%20caballero.html">Pantalón azul caballero</a></td>
+      <td style="text-align: center;"><img style="width: 134px; height: 154px;" alt="" src="file:///E:/imagenes/serigrafiado.jpg"><br>
+      <a href="Servicio%20de%20serigrafiado.html">Servicio de serigrafiado</a></td>
+      <td></td>
+    </tr>
+
+  
+  </tbody>
+</table>
+
+</div>
+
+
+
+<link rel="stylesheet" type="text/css" href="chrome-extension://liecbddmkiiihnedobmlmillhodjkdmb/css/content.css"></body><loom-container id="lo-engage-ext-container"><loom-shadow data-reactroot="" class="resolved"></loom-shadow></loom-container></html>
